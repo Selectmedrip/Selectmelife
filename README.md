@@ -3,4 +3,4 @@
 
 ![Top Langs](https://github-readme-stats-extended.vercel.app/api/top-langs/?username=selectmedrip&layout=donut-vertical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=selectmedrip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-winning.vercel.app/?username=selectmedrip&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
